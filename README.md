@@ -43,7 +43,7 @@
 ## 🛠️ 使用指南
 
 ### 1. 查找资源
-可以直接通过仓库目录树进行层级索引，或使用 GitHub Search 搜索关键字。
+可以直接通过 [GitHub Pages](https://ethannhu.github.io/xd.hub) 浏览网站，或使用仓库目录树进行层级索引。
 
 ### 2. 交流提问
 若有问题，请优先通过 [Issues](https://github.com/ethannhu/xd.hub/issues) 提交反馈。
